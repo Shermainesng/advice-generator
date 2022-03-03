@@ -1,0 +1,32 @@
+.container-custom {
+  background-color: black;
+}
+.row-custom {
+  height: 100vh;
+}
+.advice-card {
+  background-color: hsl(218, 23%, 16%);
+  border-radius: 5px;
+}
+.id-text {
+  size: 14px;
+  font-family: "Manrope", sans-serif;
+  color: hsl(150, 100%, 66%);
+}
+.advice-text {
+  color: hsl(193, 38%, 86%);
+  font-family: "Manrope";
+  size: 28px;
+}
+.divider-custom {
+  width: 80%;
+}
+.button-custom {
+  border-radius: 50%;
+  background-color: hsl(150, 100%, 66%);
+  position: relative;
+  top: 2rem;
+}
+.button-custom:hover {
+  box-shadow: white 0px 0px 0px 2px, white 0px 4px 6px -1px, white 0px 1px 0px inset;
+}
